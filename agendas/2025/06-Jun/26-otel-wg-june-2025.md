@@ -27,6 +27,7 @@
 | Valentin Cocaud   | @EmrysMyrddin | The Guild          | Nantes, FR            |
 | Rob Van Gennip    | @ravangen     | Shopify            | Toronto, CA           |
 | Eli Oshinsky      | @eli0shin     | PayPal             | Baltimore, MD         |
+| Trask Stalnaker   | @trask        | Microsoft          | Portland, OR          |
 
 ## Agenda
 
